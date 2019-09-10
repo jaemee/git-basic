@@ -3,3 +3,7 @@ This is just a test
 Added new line
 
 Added some changes
+
+add - add file to staging area / command to staged changes
+commit - command to commit the changes to local/ cloned repository - this is like a history or snapshot of changes you created in your local
+push - command to send the commit changes in remote repository
